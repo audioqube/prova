@@ -1,3 +1,5 @@
 file aggiunto durante la seconda stash
 
 modificato prima del terzo stash
+
+modificato dopo il secondo merge nella versione v1.0.4
