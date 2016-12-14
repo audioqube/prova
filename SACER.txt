@@ -3,3 +3,9 @@ APPLICAZIONE SACER PRIMA VERSIONE 1.0.0
 applicazione pronta per la produzione
 
 modifica effettuata sul branch uno
+
+seconda modifica dopo il merge
+
+terza modifica dopo il tag v1.0.2
+
+modifica da mettere in stash
