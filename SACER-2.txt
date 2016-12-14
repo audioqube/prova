@@ -1,0 +1,3 @@
+file aggiunto durante la seconda stash
+
+modificato prima del terzo stash
