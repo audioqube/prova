@@ -7,3 +7,5 @@ applicazione pronta per la produzione
 modifica effettuata sul branch unomodifica effettuata sul master
 
 seconda modifica dopo il merge
+
+terza modifica dopo il tag v1.0.2
